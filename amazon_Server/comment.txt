@@ -1,0 +1,4 @@
+Amazon server ssh key 
+password: who ?
+ip : 44.203.86.96
+user : ubuntu
